@@ -14,4 +14,4 @@ Trabalho apresentado ao Prof. Leonardo como requisito parcial a obtenção de no
 Juntamente aos códigos foram elaborados:
 
 - Relatório de desenvolvimento.
-- [Vídeo de apresentação do jogo](https://www.youtube.com/watch?v=VtHG4rsgbuE).
+- [Vídeo de apresentação do projeto](https://www.youtube.com/watch?v=VtHG4rsgbuE).
